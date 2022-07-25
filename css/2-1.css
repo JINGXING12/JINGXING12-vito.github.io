@@ -1,0 +1,31 @@
+.rw1
+{
+	width: 80%;
+	margin: auto;
+}
+.rw1 h1
+{
+	color: #0000CD;
+	margin-top: 60px;
+	text-align: center;
+	height: 100px;
+	line-height: 100px;
+	font-size: 40px;
+}
+.rw2 p
+{
+	text-indent: 2em;
+	line-height: 2em;
+	font-size: 30px;
+	flex: 0 1 auto;
+	padding:10px;
+}
+.rw2
+{
+	display: flex;
+	flex-flow: row;
+	margin-top: 100px;
+	margin: 0 auto;
+	padding:0px;
+	width: 80%;
+}

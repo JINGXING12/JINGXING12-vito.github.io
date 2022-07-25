@@ -1,0 +1,160 @@
+h1
+{
+	text-align: left;
+	padding-left: 20%;
+	margin-top: 70px;
+	float: 30%;
+	font-size: 70px;
+	font-family: "宋体";
+	color: #0000CD;
+	background: url()no-repeat center;
+	height: 150px;
+	line-height: 150px;
+}
+.zong{
+	margin: auto;
+	width: 75%;
+}
+.zong ul{
+width: 100%;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+.zong li
+{
+float:left;
+width:14.28%;
+font-size: 20px;
+text-align: center;
+background-color: #36d0e1;
+border: 20px solid #ffffff;
+border-radius: 80px;
+color: #fff;
+line-height: 45px;
+}
+.zpq
+{
+	width: 100%;
+}
+.zp1
+{
+	float: left;
+	width: 15%;
+	height: 20%;
+	margin: 9%;
+}
+.zp1 img
+{
+	width: 100%;
+	height: 100%;
+	z-index:1;
+}
+.zp1 img:hover{
+	-webkit-transform:rotate(0deg) scale(1.7); 
+	-moz-transform:rotate(0deg) scale(1.7); 
+	transform:rotate(0deg) scale(1.7); 
+	z-index:2;
+}
+.zpq h3{
+	color: #53cdc3;
+	height: 50px;
+	line-height: 50px;
+	font-size: 30px;
+}
+
+.jianjie{
+	width: 80%;
+	margin: auto;
+}
+.zuo1
+{
+	float: left;
+	width: 30%;
+	height: 600px;
+}
+.zuo2
+{
+	float: left;
+	width: 30%;
+	height: 600px;
+}
+.zuo3
+{
+	float: left;
+	width: 30%;
+	height: 600px;
+}
+img{
+	width: 100%;
+}
+.you
+{
+	float: right;
+	width: 70%;
+	height: 600px;
+}
+.you h2
+{
+	text-align: center;
+	font-size: 35px;
+}
+.you p
+{
+	text-indent: 2em;
+	font-size: 20px;
+}
+.wei
+{
+	width: 80%;
+	margin: auto;
+	clear: both;
+	column-count: 3;
+}
+.wei h2
+{
+	font-size: 40px;
+	text-align: center;
+	height: 70px;
+	line-height: 70px;
+}
+.wei p
+{
+	line-height: 2em;
+	text-indent: 2em;
+	font-size: 25px;
+}
+.img1{
+	margin-left: 20px;
+	float: left;
+	border-radius: 50%;
+	width: 200px;
+	height: 180px;
+}
+.img2{
+	margin-right: 20px;
+	float: right;
+	border-radius: 50%;
+	width: 200px;
+	height: 180px;
+}
+.cl dl
+{
+	width: 9%;
+	position: fixed;
+	bottom:35%;
+	left: 1%;
+}
+.cl dl dt
+{
+	width: 100%;
+	line-height: 40px;
+	background-color: #36d0e1;
+	text-align: center;
+	border: 20px solid #00A9FE;
+	border-radius: 100px;
+}
+.cl a:link,a:visited
+{
+text-decoration:none;
+}
